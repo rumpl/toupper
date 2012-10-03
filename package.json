@@ -1,0 +1,21 @@
+{
+    "name": "toupper",
+    "version": "0.1.0",
+    "description": "A stream that converts everything to upper case.",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "tap test/*.js"
+    },
+    "author" : {
+        "name" : "Djordje Lukic",
+        "email" : "lukic.djorje@gmail.com",
+        "url" : "http://rumpl.org"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "mocha": "~1.6.0"
+    }
+}
