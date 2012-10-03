@@ -2,6 +2,8 @@
 
 Convert streams to upper case.
 
+[![build status](https://secure.travis-ci.org/rumpl/toupper.png)](http://travis-ci.org/rumpl/toupper)
+
 ## Example
 
 ```javascript
