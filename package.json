@@ -7,7 +7,7 @@
         "test": "test"
     },
     "scripts": {
-        "test": "tap test/*.js"
+        "test": "mocha test/*.js"
     },
     "author" : {
         "name" : "Djordje Lukic",
